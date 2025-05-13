@@ -13,8 +13,8 @@
 
 * `run.jpg` by Maksim Romashkin
 * `sleep.jpg` by Andrea Piacquadio
-*  anytime.jpg 
-* castle.jpb
-* Demon-Castle.jpg
-* osplay.jpg
-* team.jpg
+*  `anytime.jpg`
+* `castle.jpb`
+* `Demon-Castle.jpg`
+* `osplay.jpg`
+* `team.jpg`
